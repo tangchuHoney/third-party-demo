@@ -1,0 +1,17 @@
+
+weixin:
+  pay:
+    notifyUrl:
+      goods: https://hq-api-t.xxxx.com/v1/wxpay/notify/goods
+      shop: https://hq-api-t.xxxxxx.com/v1/wxpay/notify/shop
+    mchId:  xxxx
+    mchKey: xxxx
+    body: xxxxx
+  mina:
+    appId: 小程序id
+    secret: 小程序密钥
+server:
+  port: 9003
+spring:
+  application:
+    name: third-demo
