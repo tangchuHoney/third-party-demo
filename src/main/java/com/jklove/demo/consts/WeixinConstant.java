@@ -4,7 +4,6 @@ package com.jklove.demo.consts;
 import com.jklove.demo.utils.YamlProperties;
 
 /**
- * Created by liuhangjun on 2018/3/26.
  */
 public interface WeixinConstant {
     

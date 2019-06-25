@@ -6,7 +6,6 @@ import com.jklove.demo.exception.AuthException;
 /**
  * 各api需要的url， 用枚举类分平台类型管理
  *
- * @author yadong.zhang (yadong.zhang0415(a)gmail.com)
  * @version 1.0
  * @since 1.0
  */
